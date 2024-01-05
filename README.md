@@ -2,7 +2,7 @@
 
 안녕하세요.
 
-알고리즘 공부 목록
+알고리즘 문제풀이 목록
 <br/>
 https://good-papyrus-404.notion.site/924ce3ff3e5a4c7cb2594348c42b404d
 <!--
