@@ -4,7 +4,7 @@
 
 알고리즘 문제풀이 목록
 <br/>
-https://good-papyrus-404.notion.site/924ce3ff3e5a4c7cb2594348c42b404d
+[Notion](https://good-papyrus-404.notion.site/924ce3ff3e5a4c7cb2594348c42b404d)
 <!--
 **KyunU-Lee/KyunU-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
